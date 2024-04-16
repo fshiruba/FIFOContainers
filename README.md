@@ -1,4 +1,4 @@
-# FIFOContainers
+# FIFO Containers
 FIFO Containers for Satisfactory!
 
 FIFO Containers is a mod for Satisfactory, written in C++/BP using Unreal Engine and the Satisfactory Modloader, which add 2 new containers to the game!
